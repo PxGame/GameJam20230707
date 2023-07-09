@@ -6,6 +6,7 @@
     <type fullname="FreeModifier" preserve="all" />
     <type fullname="HUDExpBar" preserve="all" />
     <type fullname="HUDHealthBar" preserve="all" />
+    <type fullname="JoshH.UI.UIGradient" preserve="all" />
     <type fullname="PropConfig" preserve="all" />
     <type fullname="PropEffect_AddProp" preserve="all" />
     <type fullname="PropEffect_AOEHit" preserve="all" />
@@ -24,12 +25,14 @@
     <type fullname="PropTrigger_Timer" preserve="all" />
     <type fullname="RewardUIItem" preserve="all" />
     <type fullname="TestProp" preserve="all" />
+    <type fullname="UI_GameOverPanel" preserve="all" />
     <type fullname="UI_InGame" preserve="all" />
     <type fullname="UI_MainPanel" preserve="all" />
     <type fullname="UI_PropDesc" preserve="all" />
     <type fullname="UI_PropGroup" preserve="all" />
     <type fullname="UI_PropPrefab" preserve="all" />
     <type fullname="UI_Reward" preserve="all" />
+    <type fullname="UI_Reward_Manager" preserve="all" />
     <type fullname="UnityEngine.UI.ProceduralImage.ProceduralImage" preserve="all" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
@@ -73,6 +76,10 @@
     <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
   </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
   <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Font" preserve="all" />
   </assembly>
@@ -86,6 +93,7 @@
     <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.Image" preserve="all" />
     <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.EventSystems.EventTrigger/Entry" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
