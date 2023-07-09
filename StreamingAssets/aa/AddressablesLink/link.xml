@@ -10,16 +10,18 @@
     <type fullname="PropEffect_AddProp" preserve="all" />
     <type fullname="PropEffect_AOEHit" preserve="all" />
     <type fullname="PropEffect_Attribute" preserve="all" />
+    <type fullname="PropEffect_Damage" preserve="all" />
+    <type fullname="PropEffect_FX" preserve="all" />
     <type fullname="PropEffect_Log" preserve="all" />
     <type fullname="PropEffect_Remove" preserve="all" />
+    <type fullname="PropEffect_Treatment" preserve="all" />
     <type fullname="PropEffectGroup" preserve="all" />
-    <type fullname="PropFilter_Cooldown" preserve="all" />
-    <type fullname="PropFilter_MaxTimes" preserve="all" />
     <type fullname="PropFilter_Random" preserve="all" />
     <type fullname="PropTrigger_HpPercent" preserve="all" />
     <type fullname="PropTrigger_OnAdd" preserve="all" />
-    <type fullname="PropTrigger_OnAttack" preserve="all" />
+    <type fullname="PropTrigger_OnDamage" preserve="all" />
     <type fullname="PropTrigger_OnEnemyDead" preserve="all" />
+    <type fullname="PropTrigger_Timer" preserve="all" />
     <type fullname="RewardUIItem" preserve="all" />
     <type fullname="TestProp" preserve="all" />
     <type fullname="UI_InGame" preserve="all" />
