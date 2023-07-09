@@ -1,12 +1,34 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="BossRoomCountdown" preserve="all" />
     <type fullname="DamageIndicator" preserve="all" />
+    <type fullname="EnemyHealthBar" preserve="all" />
+    <type fullname="EnemyHealthBarManager" preserve="all" />
+    <type fullname="FreeModifier" preserve="all" />
+    <type fullname="HUDExpBar" preserve="all" />
     <type fullname="HUDHealthBar" preserve="all" />
+    <type fullname="PropConfig" preserve="all" />
+    <type fullname="PropEffect_AddProp" preserve="all" />
+    <type fullname="PropEffect_AOEHit" preserve="all" />
+    <type fullname="PropEffect_Attribute" preserve="all" />
+    <type fullname="PropEffect_Log" preserve="all" />
+    <type fullname="PropEffect_Remove" preserve="all" />
+    <type fullname="PropEffectGroup" preserve="all" />
+    <type fullname="PropFilter_Cooldown" preserve="all" />
+    <type fullname="PropFilter_MaxTimes" preserve="all" />
+    <type fullname="PropFilter_Random" preserve="all" />
+    <type fullname="PropTrigger_HpPercent" preserve="all" />
+    <type fullname="PropTrigger_OnAdd" preserve="all" />
+    <type fullname="PropTrigger_OnAttack" preserve="all" />
+    <type fullname="PropTrigger_OnEnemyDead" preserve="all" />
     <type fullname="RewardUIItem" preserve="all" />
+    <type fullname="TestProp" preserve="all" />
     <type fullname="UI_InGame" preserve="all" />
     <type fullname="UI_MainPanel" preserve="all" />
+    <type fullname="UI_PropDesc" preserve="all" />
+    <type fullname="UI_PropGroup" preserve="all" />
+    <type fullname="UI_PropPrefab" preserve="all" />
     <type fullname="UI_Reward" preserve="all" />
+    <type fullname="UnityEngine.UI.ProceduralImage.ProceduralImage" preserve="all" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
@@ -41,7 +63,9 @@
     <type fullname="UnityEngine.RectTransform" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
     <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
@@ -51,11 +75,17 @@
     <type fullname="UnityEngine.Font" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
     <type fullname="UnityEngine.UI.Button" preserve="all" />
     <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
     <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/Entry" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
