@@ -8,12 +8,10 @@
     <type fullname="HUDHealthBar" preserve="all" />
     <type fullname="JoshH.UI.UIGradient" preserve="all" />
     <type fullname="PropConfig" preserve="all" />
-    <type fullname="PropEffect_AddProp" preserve="all" />
     <type fullname="PropEffect_AOEHit" preserve="all" />
     <type fullname="PropEffect_Attribute" preserve="all" />
     <type fullname="PropEffect_Damage" preserve="all" />
     <type fullname="PropEffect_FX" preserve="all" />
-    <type fullname="PropEffect_Log" preserve="all" />
     <type fullname="PropEffect_Remove" preserve="all" />
     <type fullname="PropEffect_Treatment" preserve="all" />
     <type fullname="PropEffectGroup" preserve="all" />
@@ -22,7 +20,6 @@
     <type fullname="PropTrigger_OnAdd" preserve="all" />
     <type fullname="PropTrigger_OnDamage" preserve="all" />
     <type fullname="PropTrigger_OnEnemyDead" preserve="all" />
-    <type fullname="PropTrigger_Timer" preserve="all" />
     <type fullname="RewardUIItem" preserve="all" />
     <type fullname="TestProp" preserve="all" />
     <type fullname="UI_GameOverPanel" preserve="all" />
@@ -55,9 +52,6 @@
     <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
     <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -75,13 +69,6 @@
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
-  </assembly>
-  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
-    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
-  </assembly>
-  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.Font" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
